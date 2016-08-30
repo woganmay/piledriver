@@ -12,7 +12,7 @@ This solves a very specific need I have. I needed a way to automatically move (a
 1. Clone the repo
 1. Get a client_id.json file from [this wizard](https://console.developers.google.com/start/api?id=drive)
 1. Drop that client_id.json file into Visual Studio
+1. Use the Nuget Package Manager Console to run `Update-Package`
 1. The root backup path is configured as a static constant (C:\PileDriver)
 1. Run
-
 
